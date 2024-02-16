@@ -41,6 +41,8 @@ Additional fields to consider:OrderID, Size(of pizza), Category(snacks, beverage
 - Wants to know which staff members are working when
 - Based on the staff salary info, how much each pizza costs (ingredients + chefs + delivery)
 --------------------------------------------------------------------------------------------------
-Using QuickDBD to layout database
+# Using QuickDBD to layout database
 
 ![QuickDBD-Pizza Database](https://github.com/wesleyhsin/PizzeriaDataProject/assets/156386124/867fc7be-6a35-44dc-b412-f2658f9b8115)
+
+# Imported all Spreadsheets into MySql Workbench for SQL Analysis
