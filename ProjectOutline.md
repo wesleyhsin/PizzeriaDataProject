@@ -48,19 +48,6 @@ Additional fields to consider:OrderID, Size(of pizza), Category(snacks, beverage
 # Imported all Spreadsheets into MySql Workbench for SQL Analysis
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Dashboard 1 - Order activity
 Need the following
 - Total orders
@@ -73,3 +60,12 @@ Need the following
 - Sales by hour
 - Orders by address
 - Orders by delivery/pick up
+
+# Dashboard 2 - Inventory Management
+- Need to calculate how much inventory we're using and then identify inventory that needs reordering.
+- Calculate how much each pizza costs to make based on cost of ingredients
+Need:
+    - Total quantity by ingredient
+    - Total cost of ingredients
+    - Calculated cost of pizza
+    - Percentage stock remaining by ingredient
