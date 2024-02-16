@@ -46,3 +46,30 @@ Additional fields to consider:OrderID, Size(of pizza), Category(snacks, beverage
 ![QuickDBD-Pizza Database](https://github.com/wesleyhsin/PizzeriaDataProject/assets/156386124/867fc7be-6a35-44dc-b412-f2658f9b8115)
 
 # Imported all Spreadsheets into MySql Workbench for SQL Analysis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Dashboard 1 - Order activity
+Need the following
+- Total orders
+- Total sales
+- total items
+- Average order value
+- Sales by category
+- Top selling items
+- Orders by hour
+- Sales by hour
+- Orders by address
+- Orders by delivery/pick up
