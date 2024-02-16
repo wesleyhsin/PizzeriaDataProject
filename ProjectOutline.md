@@ -41,23 +41,6 @@ Additional fields to consider:OrderID, Size(of pizza), Category(snacks, beverage
 - Wants to know which staff members are working when
 - Based on the staff salary info, how much each pizza costs (ingredients + chefs + delivery)
 --------------------------------------------------------------------------------------------------
-
-
 Using QuickDBD to layout database
-orders
--
-row_id int pk
-order_id varchar(100)
-created_at datetime
-item_name varchar(100)
-item_cat varchar(100)
-item_size varchar(20)
-item_price decimal(5,2)
-quantity int
-cust_firstname varchar(50)
-cust_lastname varchar(50)
-delivery boolean
-delivery_address1 varchar(200)
-delivery_address2 varchar(200)
-delivery_city varchar(50)
-delivery_zipcode varchar(20)
+
+![QuickDBD-Pizza Database](https://github.com/wesleyhsin/PizzeriaDataProject/assets/156386124/867fc7be-6a35-44dc-b412-f2658f9b8115)
