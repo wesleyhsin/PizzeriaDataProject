@@ -69,3 +69,9 @@ Need:
     - Total cost of ingredients
     - Calculated cost of pizza
     - Percentage stock remaining by ingredient
+
+# Dashboard 3 - Staff
+- Total staff cost
+- Total hours worked
+- Hours worked by staff member
+- Cost per staff member
